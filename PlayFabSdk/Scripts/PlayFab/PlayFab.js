@@ -4,6 +4,7 @@ var url = require("url");
 var https = require("https");
 
 exports.sdk_version = "2.82.220131";
+exports.api_version = "version";
 exports.buildIdentifier = "adobuild_nodesdk_118";
 
 var settings = (exports.settings = {
